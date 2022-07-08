@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Tyler-B1/Tyler-B1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: PowerIron20 on fortnite
 - 😄 Pronouns: fort/nite
 - ⚡ Fun fact: i only have like 5k hour in fortnite
--->
